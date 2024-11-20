@@ -6,7 +6,7 @@
 //     }
 // };
 
-public class StaticArithmeticOperations {
+public class Main {
     public static void main(String[] args) {
         // Hardcoded numbers
         int num1 = 20;
